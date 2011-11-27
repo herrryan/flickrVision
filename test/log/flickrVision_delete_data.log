@@ -1,0 +1,5 @@
+INFO  27/11 17:58:39,324 [SausaInfo] - SAUSALITO_HOME is set to /opt/sausalito (/home/sausalito/builds/sausalito_coresdk/source/sandbox/runtime/libsausalito/src/sausa_info.cpp:52) 
+INFO  27/11 17:58:39,325 [SausaInfo] - SAUSALITO_PROJECT_PHYSICAL_URI is set to /home/guof/flickrVision (/home/sausalito/builds/sausalito_coresdk/source/sandbox/runtime/libsausalito/src/sausa_info.cpp:53) 
+INFO  27/11 17:58:39,325 [SausaInfo] - SAUSALITO_PROJECT_LOGICAL_URI is set to  (/home/sausalito/builds/sausalito_coresdk/source/sandbox/runtime/libsausalito/src/sausa_info.cpp:54) 
+INFO  27/11 17:58:39,325 [SausaInfo] - SAUSALITO_TEMP is set to /tmp (/home/sausalito/builds/sausalito_coresdk/source/sandbox/runtime/libsausalito/src/sausa_info.cpp:55) 
+INFO  27/11 17:58:39,325 [SausaInfo] - SAUSALITO_BUILD_DIR is set to /home/guof/flickrVision/test/build (/home/sausalito/builds/sausalito_coresdk/source/sandbox/runtime/libsausalito/src/sausa_info.cpp:56) 
