@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sausalito>
+  <project_uri>http://www.28msec.com/templates/guestbook/</project_uri>
+  <start_page>/index.html</start_page>
+  <version>1.4</version>
+  <rewrites>
+    <rewrite>
+      <rule>
+        <pattern>^guestbook$</pattern>
+        <substitution>/guestbook/list</substitution>
+      </rule>
+    </rewrite>
+    <rewrite>
+      <rule>
+        <pattern>^foo$</pattern>
+        <substitution>index.html</substitution>
+      </rule>
+    </rewrite>
+  </rewrites>
+  <api_version>f482b33a6167fe9e04c755559cc89d1b</api_version>
+</sausalito>

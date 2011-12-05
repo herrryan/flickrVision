@@ -1,0 +1,47 @@
+body {
+  font: 62.5% Verdana, Helvetica, Geneva, Arial, sans-serif !important;
+  margin: 20px;
+}
+
+img {
+  border: 0px;
+}
+
+.entry .header{
+  font-size: 12px;
+}
+
+.entry .content {
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.entry .datetime {
+  font-size: 10px;
+  color: grey;
+  margin-top: 3px;
+}
+
+.entry {
+  padding: 10px;
+  margin:5px;
+}
+
+#text {
+  width:400px;
+  height:50px;
+}
+
+#app {
+ width: 50%;     
+ float: left;
+}
+
+#doc {
+ float: left;
+ padding: 20px;
+}
+
+li, p {
+  font-size: 120%;
+}
