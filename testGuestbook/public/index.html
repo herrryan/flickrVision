@@ -62,6 +62,7 @@
 			        maxWidth: 10
 		    	});
 			    infowindow.open(map,marker); 
+			    setTimeout(function () { infowindow.close(); }, 60000);
 	          });
           }
           setTimeout(function() {reload(map)}, 500);
