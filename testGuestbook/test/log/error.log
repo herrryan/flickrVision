@@ -570,3 +570,936 @@ otice] Child 14020: Child process is running
 [Sun Dec 04 23:00:37 2011] [notice] Child 14020: All worker threads have exited.
 [Sun Dec 04 23:00:38 2011] [notice] Child 14020: Child process is exiting
 [Sun Dec 04 23:00:38 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:16:58 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:16:59 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:16:59 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:16:59 2011] [notice] Parent: Created child process 4868
+Apache server interrupted...
+otice] Child 4868: Child process is running
+[Tue Dec 06 19:16:59 2011] [notice] Child 4868: Acquired the start mutex.
+[Tue Dec 06 19:16:59 2011] [notice] Child 4868: Starting 250 worker threads.
+[Tue Dec 06 19:16:59 2011] [notice] Child 4868: Starting thread to listen on port 8080.
+[Tue Dec 06 19:33:32 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:33:32 2011] [notice] Child 4868: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:33:32 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:33:33 2011] [notice] Child 4868: Released the start mutex
+[Tue Dec 06 19:33:34 2011] [notice] Child 4868: All worker threads have exited.
+[Tue Dec 06 19:33:35 2011] [notice] Child 4868: Child process is exiting
+[Tue Dec 06 19:33:35 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:33:44 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:33:44 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:33:44 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:33:44 2011] [notice] Parent: Created child process 8136
+Apache server interrupted...
+otice] Child 8136: Child process is running
+[Tue Dec 06 19:33:44 2011] [notice] Child 8136: Acquired the start mutex.
+[Tue Dec 06 19:33:44 2011] [notice] Child 8136: Starting 250 worker threads.
+[Tue Dec 06 19:33:44 2011] [notice] Child 8136: Starting thread to listen on port 8080.
+[Tue Dec 06 19:35:19 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:35:19 2011] [notice] Child 8136: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:35:19 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:35:20 2011] [notice] Child 8136: Released the start mutex
+[Tue Dec 06 19:35:21 2011] [notice] Child 8136: All worker threads have exited.
+[Tue Dec 06 19:35:22 2011] [notice] Child 8136: Child process is exiting
+[Tue Dec 06 19:35:22 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:35:31 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:35:31 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:35:31 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:35:31 2011] [notice] Parent: Created child process 6464
+Apache server interrupted...
+otice] Child 6464: Child process is running
+[Tue Dec 06 19:35:31 2011] [notice] Child 6464: Acquired the start mutex.
+[Tue Dec 06 19:35:31 2011] [notice] Child 6464: Starting 250 worker threads.
+[Tue Dec 06 19:35:31 2011] [notice] Child 6464: Starting thread to listen on port 8080.
+[Tue Dec 06 19:36:57 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:36:57 2011] [notice] Child 6464: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:36:58 2011] [notice] Child 6464: Released the start mutex
+[Tue Dec 06 19:36:59 2011] [notice] Child 6464: All worker threads have exited.
+[Tue Dec 06 19:37:00 2011] [notice] Child 6464: Child process is exiting
+[Tue Dec 06 19:37:00 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:37:06 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:37:06 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:37:06 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:37:06 2011] [notice] Parent: Created child process 7620
+Apache server interrupted...
+otice] Child 7620: Child process is running
+[Tue Dec 06 19:37:06 2011] [notice] Child 7620: Acquired the start mutex.
+[Tue Dec 06 19:37:06 2011] [notice] Child 7620: Starting 250 worker threads.
+[Tue Dec 06 19:37:06 2011] [notice] Child 7620: Starting thread to listen on port 8080.
+[Tue Dec 06 19:37:56 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:37:56 2011] [notice] Child 7620: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:37:57 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:37:57 2011] [notice] Child 7620: Released the start mutex
+[Tue Dec 06 19:37:58 2011] [notice] Child 7620: All worker threads have exited.
+[Tue Dec 06 19:37:59 2011] [notice] Child 7620: Child process is exiting
+[Tue Dec 06 19:37:59 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:38:36 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:38:36 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:38:36 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:38:36 2011] [notice] Parent: Created child process 532
+Apache server interrupted...
+otice] Child 532: Child process is running
+[Tue Dec 06 19:38:36 2011] [notice] Child 532: Acquired the start mutex.
+[Tue Dec 06 19:38:36 2011] [notice] Child 532: Starting 250 worker threads.
+[Tue Dec 06 19:38:36 2011] [notice] Child 532: Starting thread to listen on port 8080.
+[Tue Dec 06 19:39:24 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:39:24 2011] [notice] Child 532: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:39:24 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:39:25 2011] [notice] Child 532: Released the start mutex
+[Tue Dec 06 19:39:26 2011] [notice] Child 532: All worker threads have exited.
+[Tue Dec 06 19:39:27 2011] [notice] Child 532: Child process is exiting
+[Tue Dec 06 19:39:27 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:39:36 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:39:36 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:39:36 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:39:36 2011] [notice] Parent: Created child process 5968
+Apache server interrupted...
+otice] Child 5968: Child process is running
+[Tue Dec 06 19:39:36 2011] [notice] Child 5968: Acquired the start mutex.
+[Tue Dec 06 19:39:36 2011] [notice] Child 5968: Starting 250 worker threads.
+[Tue Dec 06 19:39:36 2011] [notice] Child 5968: Starting thread to listen on port 8080.
+[Tue Dec 06 19:40:31 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:40:31 2011] [notice] Child 5968: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:40:31 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:40:32 2011] [notice] Child 5968: Released the start mutex
+[Tue Dec 06 19:40:33 2011] [notice] Child 5968: All worker threads have exited.
+[Tue Dec 06 19:40:34 2011] [notice] Child 5968: Child process is exiting
+[Tue Dec 06 19:40:34 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:40:41 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:40:41 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:40:41 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:40:41 2011] [notice] Parent: Created child process 8044
+Apache server interrupted...
+otice] Child 8044: Child process is running
+[Tue Dec 06 19:40:41 2011] [notice] Child 8044: Acquired the start mutex.
+[Tue Dec 06 19:40:41 2011] [notice] Child 8044: Starting 250 worker threads.
+[Tue Dec 06 19:40:41 2011] [notice] Child 8044: Starting thread to listen on port 8080.
+[Tue Dec 06 19:40:54 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:40:54 2011] [notice] Child 8044: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:40:55 2011] [notice] Child 8044: Released the start mutex
+[Tue Dec 06 19:40:59 2011] [notice] Child 8044: All worker threads have exited.
+[Tue Dec 06 19:41:00 2011] [notice] Child 8044: Child process is exiting
+[Tue Dec 06 19:41:00 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:42:35 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:42:35 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:42:35 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:42:35 2011] [notice] Parent: Created child process 6096
+Apache server interrupted...
+otice] Child 6096: Child process is running
+[Tue Dec 06 19:42:35 2011] [notice] Child 6096: Acquired the start mutex.
+[Tue Dec 06 19:42:35 2011] [notice] Child 6096: Starting 250 worker threads.
+[Tue Dec 06 19:42:35 2011] [notice] Child 6096: Starting thread to listen on port 8080.
+[Tue Dec 06 19:42:41 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:42:41 2011] [notice] Child 6096: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:42:42 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:42:42 2011] [notice] Child 6096: Released the start mutex
+[Tue Dec 06 19:42:53 2011] [notice] Child 6096: All worker threads have exited.
+[Tue Dec 06 19:42:54 2011] [notice] Child 6096: Child process is exiting
+[Tue Dec 06 19:42:54 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:44:25 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:44:25 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:44:25 2011] [notice] Parent: Created child process 2180
+Apache server interrupted...
+otice] Child 2180: Child process is running
+[Tue Dec 06 19:44:25 2011] [notice] Child 2180: Acquired the start mutex.
+[Tue Dec 06 19:44:25 2011] [notice] Child 2180: Starting 250 worker threads.
+[Tue Dec 06 19:44:25 2011] [notice] Child 2180: Starting thread to listen on port 8080.
+[Tue Dec 06 19:45:42 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:45:42 2011] [notice] Child 2180: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:45:43 2011] [notice] Child 2180: Released the start mutex
+[Tue Dec 06 19:45:44 2011] [notice] Child 2180: All worker threads have exited.
+[Tue Dec 06 19:45:45 2011] [notice] Child 2180: Child process is exiting
+[Tue Dec 06 19:45:45 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:45:51 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:45:51 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:45:51 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:45:51 2011] [notice] Parent: Created child process 6672
+Apache server interrupted...
+otice] Child 6672: Child process is running
+[Tue Dec 06 19:45:51 2011] [notice] Child 6672: Acquired the start mutex.
+[Tue Dec 06 19:45:51 2011] [notice] Child 6672: Starting 250 worker threads.
+[Tue Dec 06 19:45:51 2011] [notice] Child 6672: Starting thread to listen on port 8080.
+[Tue Dec 06 19:46:35 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:46:35 2011] [notice] Child 6672: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:46:36 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:46:36 2011] [notice] Child 6672: Released the start mutex
+[Tue Dec 06 19:46:37 2011] [notice] Child 6672: All worker threads have exited.
+[Tue Dec 06 19:46:38 2011] [notice] Child 6672: Child process is exiting
+[Tue Dec 06 19:46:38 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:46:42 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:46:42 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:46:42 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:46:42 2011] [notice] Parent: Created child process 428
+Apache server interrupted...
+otice] Child 428: Child process is running
+[Tue Dec 06 19:46:42 2011] [notice] Child 428: Acquired the start mutex.
+[Tue Dec 06 19:46:42 2011] [notice] Child 428: Starting 250 worker threads.
+[Tue Dec 06 19:46:42 2011] [notice] Child 428: Starting thread to listen on port 8080.
+[Tue Dec 06 19:47:07 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:47:07 2011] [notice] Child 428: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:47:07 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:47:08 2011] [notice] Child 428: Released the start mutex
+[Tue Dec 06 19:47:09 2011] [notice] Child 428: All worker threads have exited.
+[Tue Dec 06 19:47:10 2011] [notice] Child 428: Child process is exiting
+[Tue Dec 06 19:47:10 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:47:14 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:47:14 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:47:14 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:47:14 2011] [notice] Parent: Created child process 6724
+Apache server interrupted...
+otice] Child 6724: Child process is running
+[Tue Dec 06 19:47:14 2011] [notice] Child 6724: Acquired the start mutex.
+[Tue Dec 06 19:47:14 2011] [notice] Child 6724: Starting 250 worker threads.
+[Tue Dec 06 19:47:14 2011] [notice] Child 6724: Starting thread to listen on port 8080.
+[Tue Dec 06 19:48:17 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:48:17 2011] [notice] Child 6724: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:48:17 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:48:18 2011] [notice] Child 6724: Released the start mutex
+[Tue Dec 06 19:48:19 2011] [notice] Child 6724: All worker threads have exited.
+[Tue Dec 06 19:48:20 2011] [notice] Child 6724: Child process is exiting
+[Tue Dec 06 19:48:20 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:48:31 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:48:31 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:48:31 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:48:31 2011] [notice] Parent: Created child process 6652
+Apache server interrupted...
+otice] Child 6652: Child process is running
+[Tue Dec 06 19:48:31 2011] [notice] Child 6652: Acquired the start mutex.
+[Tue Dec 06 19:48:31 2011] [notice] Child 6652: Starting 250 worker threads.
+[Tue Dec 06 19:48:31 2011] [notice] Child 6652: Starting thread to listen on port 8080.
+[Tue Dec 06 19:52:54 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:52:54 2011] [notice] Child 6652: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:52:55 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:52:55 2011] [notice] Child 6652: Released the start mutex
+[Tue Dec 06 19:52:56 2011] [notice] Child 6652: All worker threads have exited.
+[Tue Dec 06 19:52:57 2011] [notice] Child 6652: Child process is exiting
+[Tue Dec 06 19:52:57 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:53:04 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:53:04 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:53:04 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:53:04 2011] [notice] Parent: Created child process 5156
+Apache server interrupted...
+otice] Child 5156: Child process is running
+[Tue Dec 06 19:53:04 2011] [notice] Child 5156: Acquired the start mutex.
+[Tue Dec 06 19:53:04 2011] [notice] Child 5156: Starting 250 worker threads.
+[Tue Dec 06 19:53:04 2011] [notice] Child 5156: Starting thread to listen on port 8080.
+[Tue Dec 06 19:56:54 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:56:54 2011] [notice] Child 5156: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:56:54 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:56:55 2011] [notice] Child 5156: Released the start mutex
+[Tue Dec 06 19:56:56 2011] [notice] Child 5156: All worker threads have exited.
+[Tue Dec 06 19:56:57 2011] [notice] Child 5156: Child process is exiting
+[Tue Dec 06 19:56:57 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:57:01 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:57:01 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:57:01 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:57:01 2011] [notice] Parent: Created child process 6776
+Apache server interrupted...
+otice] Child 6776: Child process is running
+[Tue Dec 06 19:57:01 2011] [notice] Child 6776: Acquired the start mutex.
+[Tue Dec 06 19:57:01 2011] [notice] Child 6776: Starting 250 worker threads.
+[Tue Dec 06 19:57:01 2011] [notice] Child 6776: Starting thread to listen on port 8080.
+[Tue Dec 06 19:59:15 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 19:59:15 2011] [notice] Child 6776: Exit event signaled. Child process is ending.
+[Tue Dec 06 19:59:16 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 19:59:16 2011] [notice] Child 6776: Released the start mutex
+[Tue Dec 06 19:59:17 2011] [notice] Child 6776: All worker threads have exited.
+[Tue Dec 06 19:59:18 2011] [notice] Child 6776: Child process is exiting
+[Tue Dec 06 19:59:18 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 19:59:49 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 19:59:49 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 19:59:49 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 19:59:49 2011] [notice] Parent: Created child process 7040
+Apache server interrupted...
+otice] Child 7040: Child process is running
+[Tue Dec 06 19:59:49 2011] [notice] Child 7040: Acquired the start mutex.
+[Tue Dec 06 19:59:49 2011] [notice] Child 7040: Starting 250 worker threads.
+[Tue Dec 06 19:59:49 2011] [notice] Child 7040: Starting thread to listen on port 8080.
+[Tue Dec 06 20:00:26 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:00:26 2011] [notice] Child 7040: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:00:27 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 20:00:27 2011] [notice] Child 7040: Released the start mutex
+[Tue Dec 06 20:00:28 2011] [notice] Child 7040: All worker threads have exited.
+[Tue Dec 06 20:00:29 2011] [notice] Child 7040: Child process is exiting
+[Tue Dec 06 20:00:29 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 20:00:36 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 20:00:36 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 20:00:36 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 20:00:36 2011] [notice] Parent: Created child process 544
+Apache server interrupted...
+otice] Child 544: Child process is running
+[Tue Dec 06 20:00:36 2011] [notice] Child 544: Acquired the start mutex.
+[Tue Dec 06 20:00:36 2011] [notice] Child 544: Starting 250 worker threads.
+[Tue Dec 06 20:00:36 2011] [notice] Child 544: Starting thread to listen on port 8080.
+[Tue Dec 06 20:00:51 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:00:51 2011] [notice] Child 544: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:00:51 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 20:00:52 2011] [notice] Child 544: Released the start mutex
+[Tue Dec 06 20:00:54 2011] [notice] Child 544: All worker threads have exited.
+[Tue Dec 06 20:00:55 2011] [notice] Child 544: Child process is exiting
+[Tue Dec 06 20:00:55 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 20:01:30 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 20:01:30 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 20:01:30 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 20:01:30 2011] [notice] Parent: Created child process 6796
+Apache server interrupted...
+otice] Child 6796: Child process is running
+[Tue Dec 06 20:01:30 2011] [notice] Child 6796: Acquired the start mutex.
+[Tue Dec 06 20:01:30 2011] [notice] Child 6796: Starting 250 worker threads.
+[Tue Dec 06 20:01:30 2011] [notice] Child 6796: Starting thread to listen on port 8080.
+[Tue Dec 06 20:01:48 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:01:48 2011] [notice] Child 6796: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:01:49 2011] [notice] Child 6796: Released the start mutex
+[Tue Dec 06 20:01:50 2011] [notice] Child 6796: All worker threads have exited.
+[Tue Dec 06 20:01:51 2011] [notice] Child 6796: Child process is exiting
+[Tue Dec 06 20:01:51 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 20:01:55 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 20:01:55 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 20:01:55 2011] [notice] Parent: Created child process 6984
+Apache server interrupted...
+otice] Child 6984: Child process is running
+[Tue Dec 06 20:01:55 2011] [notice] Child 6984: Acquired the start mutex.
+[Tue Dec 06 20:01:55 2011] [notice] Child 6984: Starting 250 worker threads.
+[Tue Dec 06 20:01:55 2011] [notice] Child 6984: Starting thread to listen on port 8080.
+[Tue Dec 06 20:07:22 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:07:22 2011] [notice] Child 6984: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:07:23 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 20:07:23 2011] [notice] Child 6984: Released the start mutex
+[Tue Dec 06 20:07:24 2011] [notice] Child 6984: All worker threads have exited.
+[Tue Dec 06 20:07:25 2011] [notice] Child 6984: Child process is exiting
+[Tue Dec 06 20:07:25 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 20:18:00 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 20:18:00 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 20:18:00 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 20:18:00 2011] [notice] Parent: Created child process 6396
+Apache server interrupted...
+otice] Child 6396: Child process is running
+[Tue Dec 06 20:18:00 2011] [notice] Child 6396: Acquired the start mutex.
+[Tue Dec 06 20:18:00 2011] [notice] Child 6396: Starting 250 worker threads.
+[Tue Dec 06 20:18:00 2011] [notice] Child 6396: Starting thread to listen on port 8080.
+[Tue Dec 06 20:18:06 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:18:06 2011] [notice] Child 6396: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: i = , referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: 30, referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  String , referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: http://www.28msec.com/templates/guestbook/, referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  is still in the pool, referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: , referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [warn] [client 127.0.0.1] (OS 109)管道已结束。  : mod_fcgid: get overlap result error, referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:06 2011] [error] [client 127.0.0.1] Premature end of script headers: sausa_fcgi.exe, referer: http://127.0.0.1:8080/index.html
+[Tue Dec 06 20:18:07 2011] [notice] Child 6396: Released the start mutex
+[Tue Dec 06 20:18:16 2011] [notice] Child 6396: All worker threads have exited.
+[Tue Dec 06 20:18:17 2011] [notice] Child 6396: Child process is exiting
+[Tue Dec 06 20:18:17 2011] [notice] Parent: Child process exited successfully.
+[Tue Dec 06 20:18:27 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Tue Dec 06 20:18:27 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Tue Dec 06 20:18:27 2011] [notice] Parent: Created child process 6772
+Apache server interrupted...
+otice] Child 6772: Child process is running
+[Tue Dec 06 20:18:27 2011] [notice] Child 6772: Acquired the start mutex.
+[Tue Dec 06 20:18:27 2011] [notice] Child 6772: Starting 250 worker threads.
+[Tue Dec 06 20:18:27 2011] [notice] Child 6772: Starting thread to listen on port 8080.
+[Tue Dec 06 20:57:35 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 06 20:57:35 2011] [notice] Child 6772: Exit event signaled. Child process is ending.
+[Tue Dec 06 20:57:35 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Tue Dec 06 20:57:36 2011] [notice] Child 6772: Released the start mutex
+[Tue Dec 06 20:57:37 2011] [notice] Child 6772: All worker threads have exited.
+[Tue Dec 06 20:57:38 2011] [notice] Child 6772: Child process is exiting
+[Tue Dec 06 20:57:38 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 19:23:01 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 19:23:01 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 19:23:01 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 19:23:01 2011] [notice] Parent: Created child process 7832
+Apache server interrupted...
+otice] Child 7832: Child process is running
+[Thu Dec 08 19:23:01 2011] [notice] Child 7832: Acquired the start mutex.
+[Thu Dec 08 19:23:01 2011] [notice] Child 7832: Starting 250 worker threads.
+[Thu Dec 08 19:23:01 2011] [notice] Child 7832: Starting thread to listen on port 8080.
+[Thu Dec 08 20:07:00 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 20:07:00 2011] [notice] Child 7832: Exit event signaled. Child process is ending.
+[Thu Dec 08 20:07:00 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 20:07:01 2011] [notice] Child 7832: Released the start mutex
+[Thu Dec 08 20:07:02 2011] [warn] mod_fcgid: cleanup zombie process 6264
+[Thu Dec 08 20:07:30 2011] [notice] Parent: Forcing termination of child process 272 
+[Thu Dec 08 20:10:49 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 20:10:49 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 20:10:49 2011] [notice] Parent: Created child process 4256
+Apache server interrupted...
+otice] Child 4256: Child process is running
+[Thu Dec 08 20:10:49 2011] [notice] Child 4256: Acquired the start mutex.
+[Thu Dec 08 20:10:49 2011] [notice] Child 4256: Starting 250 worker threads.
+[Thu Dec 08 20:10:49 2011] [notice] Child 4256: Starting thread to listen on port 8080.
+[Thu Dec 08 20:10:56 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 20:10:56 2011] [notice] Child 4256: Exit event signaled. Child process is ending.
+[Thu Dec 08 20:10:56 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 20:10:57 2011] [notice] Child 4256: Released the start mutex
+[Thu Dec 08 20:11:08 2011] [notice] Child 4256: All worker threads have exited.
+[Thu Dec 08 20:11:09 2011] [notice] Child 4256: Child process is exiting
+[Thu Dec 08 20:11:09 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 20:11:34 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 20:11:34 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 20:11:34 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 20:11:34 2011] [notice] Parent: Created child process 3052
+Apache server interrupted...
+otice] Child 3052: Child process is running
+[Thu Dec 08 20:11:34 2011] [notice] Child 3052: Acquired the start mutex.
+[Thu Dec 08 20:11:34 2011] [notice] Child 3052: Starting 250 worker threads.
+[Thu Dec 08 20:11:34 2011] [notice] Child 3052: Starting thread to listen on port 8080.
+[Thu Dec 08 20:15:33 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:15:33 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:15:33 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:15:54 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:16:15 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:16:28 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 20:16:32 2011] [warn] [client 127.0.0.1] mod_fcgid: can't apply process slot for D:/Program/Sausalito Tools/plugins/com.28msec.sausalito.win32_1.4.2.201110280412/coresdk/bin/sausa_fcgi.exe
+[Thu Dec 08 21:47:04 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 21:47:04 2011] [notice] Child 3052: Exit event signaled. Child process is ending.
+[Thu Dec 08 21:47:04 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 21:47:05 2011] [notice] Child 3052: Released the start mutex
+[Thu Dec 08 21:47:05 2011] [warn] mod_fcgid: cleanup zombie process 6640
+[Thu Dec 08 21:47:06 2011] [notice] Child 3052: All worker threads have exited.
+[Thu Dec 08 21:47:07 2011] [notice] Child 3052: Child process is exiting
+[Thu Dec 08 21:47:08 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 21:47:44 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 21:47:44 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 21:47:44 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 21:47:44 2011] [notice] Parent: Created child process 7180
+Apache server interrupted...
+otice] Child 7180: Child process is running
+[Thu Dec 08 21:47:44 2011] [notice] Child 7180: Acquired the start mutex.
+[Thu Dec 08 21:47:44 2011] [notice] Child 7180: Starting 250 worker threads.
+[Thu Dec 08 21:47:44 2011] [notice] Child 7180: Starting thread to listen on port 8080.
+[Thu Dec 08 21:48:25 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 21:48:25 2011] [notice] Child 7180: Exit event signaled. Child process is ending.
+[Thu Dec 08 21:48:25 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 21:48:26 2011] [notice] Child 7180: Released the start mutex
+[Thu Dec 08 21:48:30 2011] [notice] Child 7180: All worker threads have exited.
+[Thu Dec 08 21:48:31 2011] [notice] Child 7180: Child process is exiting
+[Thu Dec 08 21:48:31 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 21:48:37 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 21:48:37 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 21:48:37 2011] [notice] Parent: Created child process 5636
+Apache server interrupted...
+otice] Child 5636: Child process is running
+[Thu Dec 08 21:48:37 2011] [notice] Child 5636: Acquired the start mutex.
+[Thu Dec 08 21:48:37 2011] [notice] Child 5636: Starting 250 worker threads.
+[Thu Dec 08 21:48:37 2011] [notice] Child 5636: Starting thread to listen on port 8080.
+[Thu Dec 08 21:48:41 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 21:48:41 2011] [notice] Child 5636: Exit event signaled. Child process is ending.
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: i = , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: 30, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  String , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: http://www.28msec.com/templates/guestbook/, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  is still in the pool, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] [client 127.0.0.1] (OS 109)管道已结束。  : mod_fcgid: get overlap result error, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [error] [client 127.0.0.1] Premature end of script headers: sausa_fcgi.exe, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:41 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 21:48:42 2011] [notice] Child 5636: Released the start mutex
+[Thu Dec 08 21:48:43 2011] [notice] Child 5636: All worker threads have exited.
+[Thu Dec 08 21:48:44 2011] [notice] Child 5636: Child process is exiting
+[Thu Dec 08 21:48:44 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 21:48:49 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 21:48:49 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 21:48:49 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 21:48:49 2011] [notice] Parent: Created child process 6284
+Apache server interrupted...
+otice] Child 6284: Child process is running
+[Thu Dec 08 21:48:49 2011] [notice] Child 6284: Acquired the start mutex.
+[Thu Dec 08 21:48:49 2011] [notice] Child 6284: Starting 250 worker threads.
+[Thu Dec 08 21:48:49 2011] [notice] Child 6284: Starting thread to listen on port 8080.
+[Thu Dec 08 21:48:51 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 21:48:51 2011] [notice] Child 6284: Exit event signaled. Child process is ending.
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: i = , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: 30, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  String , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: http://www.28msec.com/templates/guestbook/, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  is still in the pool, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [warn] [client 127.0.0.1] (OS 109)管道已结束。  : mod_fcgid: get overlap result error, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:51 2011] [error] [client 127.0.0.1] Premature end of script headers: sausa_fcgi.exe, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 21:48:52 2011] [notice] Child 6284: Released the start mutex
+[Thu Dec 08 21:48:53 2011] [notice] Child 6284: All worker threads have exited.
+[Thu Dec 08 21:48:54 2011] [notice] Child 6284: Child process is exiting
+[Thu Dec 08 21:48:54 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 21:49:03 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 21:49:03 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 21:49:03 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 21:49:03 2011] [notice] Parent: Created child process 4776
+Apache server interrupted...
+otice] Child 4776: Child process is running
+[Thu Dec 08 21:49:03 2011] [notice] Child 4776: Acquired the start mutex.
+[Thu Dec 08 21:49:03 2011] [notice] Child 4776: Starting 250 worker threads.
+[Thu Dec 08 21:49:03 2011] [notice] Child 4776: Starting thread to listen on port 8080.
+[Thu Dec 08 22:50:42 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 22:50:42 2011] [notice] Child 4776: Exit event signaled. Child process is ending.
+[Thu Dec 08 22:50:43 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 22:50:43 2011] [notice] Child 4776: Released the start mutex
+[Thu Dec 08 22:51:03 2011] [warn] mod_fcgid: cleanup zombie process 6164
+[Thu Dec 08 22:51:12 2011] [notice] Parent: Forcing termination of child process 272 
+[Thu Dec 08 22:52:59 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 22:52:59 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 22:52:59 2011] [notice] Parent: Created child process 6500
+Apache server interrupted...
+otice] Child 6500: Child process is running
+[Thu Dec 08 22:52:59 2011] [notice] Child 6500: Acquired the start mutex.
+[Thu Dec 08 22:52:59 2011] [notice] Child 6500: Starting 250 worker threads.
+[Thu Dec 08 22:52:59 2011] [notice] Child 6500: Starting thread to listen on port 8080.
+[Thu Dec 08 23:11:07 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:11:07 2011] [notice] Child 6500: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:11:07 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:11:08 2011] [notice] Child 6500: Released the start mutex
+[Thu Dec 08 23:11:09 2011] [notice] Child 6500: All worker threads have exited.
+[Thu Dec 08 23:11:10 2011] [notice] Child 6500: Child process is exiting
+[Thu Dec 08 23:11:10 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:11:47 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:11:47 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:11:47 2011] [notice] Parent: Created child process 3844
+Apache server interrupted...
+otice] Child 3844: Child process is running
+[Thu Dec 08 23:11:47 2011] [notice] Child 3844: Acquired the start mutex.
+[Thu Dec 08 23:11:47 2011] [notice] Child 3844: Starting 250 worker threads.
+[Thu Dec 08 23:11:47 2011] [notice] Child 3844: Starting thread to listen on port 8080.
+[Thu Dec 08 23:17:41 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:17:41 2011] [notice] Child 3844: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:17:41 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:17:42 2011] [notice] Child 3844: Released the start mutex
+[Thu Dec 08 23:17:43 2011] [notice] Child 3844: All worker threads have exited.
+[Thu Dec 08 23:17:44 2011] [notice] Child 3844: Child process is exiting
+[Thu Dec 08 23:17:44 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:17:50 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:17:50 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:17:50 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:17:50 2011] [notice] Parent: Created child process 9208
+Apache server interrupted...
+otice] Child 9208: Child process is running
+[Thu Dec 08 23:17:50 2011] [notice] Child 9208: Acquired the start mutex.
+[Thu Dec 08 23:17:50 2011] [notice] Child 9208: Starting 250 worker threads.
+[Thu Dec 08 23:17:50 2011] [notice] Child 9208: Starting thread to listen on port 8080.
+[Thu Dec 08 23:17:54 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:17:54 2011] [notice] Child 9208: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:17:55 2011] [notice] Child 9208: Released the start mutex
+[Thu Dec 08 23:18:08 2011] [notice] Child 9208: All worker threads have exited.
+[Thu Dec 08 23:18:09 2011] [notice] Child 9208: Child process is exiting
+[Thu Dec 08 23:18:09 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:19:22 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:19:22 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:19:22 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:19:22 2011] [notice] Parent: Created child process 8476
+Apache server interrupted...
+otice] Child 8476: Child process is running
+[Thu Dec 08 23:19:22 2011] [notice] Child 8476: Acquired the start mutex.
+[Thu Dec 08 23:19:22 2011] [notice] Child 8476: Starting 250 worker threads.
+[Thu Dec 08 23:19:22 2011] [notice] Child 8476: Starting thread to listen on port 8080.
+[Thu Dec 08 23:20:56 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:20:56 2011] [notice] Child 8476: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:20:56 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:20:57 2011] [notice] Child 8476: Released the start mutex
+[Thu Dec 08 23:21:10 2011] [notice] Child 8476: All worker threads have exited.
+[Thu Dec 08 23:21:11 2011] [notice] Child 8476: Child process is exiting
+[Thu Dec 08 23:21:11 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:21:15 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:21:15 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:21:15 2011] [notice] Parent: Created child process 7644
+Apache server interrupted...
+otice] Child 7644: Child process is running
+[Thu Dec 08 23:21:15 2011] [notice] Child 7644: Acquired the start mutex.
+[Thu Dec 08 23:21:15 2011] [notice] Child 7644: Starting 250 worker threads.
+[Thu Dec 08 23:21:15 2011] [notice] Child 7644: Starting thread to listen on port 8080.
+[Thu Dec 08 23:21:57 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:21:57 2011] [notice] Child 7644: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:21:57 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:21:58 2011] [notice] Child 7644: Released the start mutex
+[Thu Dec 08 23:22:05 2011] [notice] Child 7644: All worker threads have exited.
+[Thu Dec 08 23:22:06 2011] [notice] Child 7644: Child process is exiting
+[Thu Dec 08 23:22:06 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:22:43 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:22:43 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:22:43 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:22:43 2011] [notice] Parent: Created child process 8320
+Apache server interrupted...
+otice] Child 8320: Child process is running
+[Thu Dec 08 23:22:43 2011] [notice] Child 8320: Acquired the start mutex.
+[Thu Dec 08 23:22:43 2011] [notice] Child 8320: Starting 250 worker threads.
+[Thu Dec 08 23:22:43 2011] [notice] Child 8320: Starting thread to listen on port 8080.
+[Thu Dec 08 23:25:17 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:25:17 2011] [notice] Child 8320: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:25:18 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:25:18 2011] [notice] Child 8320: Released the start mutex
+[Thu Dec 08 23:25:19 2011] [notice] Child 8320: All worker threads have exited.
+[Thu Dec 08 23:25:20 2011] [notice] Child 8320: Child process is exiting
+[Thu Dec 08 23:25:20 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:25:28 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:25:28 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:25:28 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:25:28 2011] [notice] Parent: Created child process 9984
+Apache server interrupted...
+otice] Child 9984: Child process is running
+[Thu Dec 08 23:25:28 2011] [notice] Child 9984: Acquired the start mutex.
+[Thu Dec 08 23:25:28 2011] [notice] Child 9984: Starting 250 worker threads.
+[Thu Dec 08 23:25:28 2011] [notice] Child 9984: Starting thread to listen on port 8080.
+[Thu Dec 08 23:27:17 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:27:17 2011] [notice] Child 9984: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:27:17 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:27:18 2011] [notice] Child 9984: Released the start mutex
+[Thu Dec 08 23:27:25 2011] [notice] Child 9984: All worker threads have exited.
+[Thu Dec 08 23:27:26 2011] [notice] Child 9984: Child process is exiting
+[Thu Dec 08 23:27:26 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:27:41 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:27:41 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:27:41 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:27:41 2011] [notice] Parent: Created child process 9412
+Apache server interrupted...
+otice] Child 9412: Child process is running
+[Thu Dec 08 23:27:41 2011] [notice] Child 9412: Acquired the start mutex.
+[Thu Dec 08 23:27:41 2011] [notice] Child 9412: Starting 250 worker threads.
+[Thu Dec 08 23:27:41 2011] [notice] Child 9412: Starting thread to listen on port 8080.
+[Thu Dec 08 23:28:36 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:28:36 2011] [notice] Child 9412: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:28:37 2011] [notice] Child 9412: Released the start mutex
+[Thu Dec 08 23:28:38 2011] [notice] Child 9412: All worker threads have exited.
+[Thu Dec 08 23:28:39 2011] [notice] Child 9412: Child process is exiting
+[Thu Dec 08 23:28:39 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:28:45 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:28:45 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:28:45 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:28:45 2011] [notice] Parent: Created child process 6396
+Apache server interrupted...
+otice] Child 6396: Child process is running
+[Thu Dec 08 23:28:45 2011] [notice] Child 6396: Acquired the start mutex.
+[Thu Dec 08 23:28:45 2011] [notice] Child 6396: Starting 250 worker threads.
+[Thu Dec 08 23:28:45 2011] [notice] Child 6396: Starting thread to listen on port 8080.
+[Thu Dec 08 23:29:41 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:29:41 2011] [notice] Child 6396: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:29:41 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:29:42 2011] [notice] Child 6396: Released the start mutex
+[Thu Dec 08 23:29:45 2011] [warn] mod_fcgid: cleanup zombie process 9104
+[Thu Dec 08 23:29:55 2011] [notice] Child 6396: All worker threads have exited.
+[Thu Dec 08 23:29:56 2011] [notice] Child 6396: Child process is exiting
+[Thu Dec 08 23:29:56 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:30:50 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:30:50 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:30:50 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:30:50 2011] [notice] Parent: Created child process 5316
+Apache server interrupted...
+otice] Child 5316: Child process is running
+[Thu Dec 08 23:30:50 2011] [notice] Child 5316: Acquired the start mutex.
+[Thu Dec 08 23:30:50 2011] [notice] Child 5316: Starting 250 worker threads.
+[Thu Dec 08 23:30:50 2011] [notice] Child 5316: Starting thread to listen on port 8080.
+[Thu Dec 08 23:30:55 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:30:55 2011] [notice] Child 5316: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:30:56 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:30:56 2011] [notice] Child 5316: Released the start mutex
+[Thu Dec 08 23:30:57 2011] [notice] Child 5316: All worker threads have exited.
+[Thu Dec 08 23:30:58 2011] [notice] Child 5316: Child process is exiting
+[Thu Dec 08 23:30:58 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:31:16 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:31:16 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:31:16 2011] [notice] Parent: Created child process 1660
+Apache server interrupted...
+otice] Child 1660: Child process is running
+[Thu Dec 08 23:31:16 2011] [notice] Child 1660: Acquired the start mutex.
+[Thu Dec 08 23:31:16 2011] [notice] Child 1660: Starting 250 worker threads.
+[Thu Dec 08 23:31:16 2011] [notice] Child 1660: Starting thread to listen on port 8080.
+[Thu Dec 08 23:31:36 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:31:36 2011] [notice] Child 1660: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: i = , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: 30, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  String , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: http://www.28msec.com/templates/guestbook/, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  is still in the pool, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: , referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [warn] [client 127.0.0.1] (OS 109)管道已结束。  : mod_fcgid: get overlap result error, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:36 2011] [error] [client 127.0.0.1] Premature end of script headers: sausa_fcgi.exe, referer: http://127.0.0.1:8080/index.html
+[Thu Dec 08 23:31:37 2011] [notice] Child 1660: Released the start mutex
+[Thu Dec 08 23:31:38 2011] [notice] Child 1660: All worker threads have exited.
+[Thu Dec 08 23:31:39 2011] [notice] Child 1660: Child process is exiting
+[Thu Dec 08 23:31:39 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:32:54 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:32:54 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:32:54 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:32:54 2011] [notice] Parent: Created child process 7748
+Apache server interrupted...
+otice] Child 7748: Child process is running
+[Thu Dec 08 23:32:54 2011] [notice] Child 7748: Acquired the start mutex.
+[Thu Dec 08 23:32:54 2011] [notice] Child 7748: Starting 250 worker threads.
+[Thu Dec 08 23:32:54 2011] [notice] Child 7748: Starting thread to listen on port 8080.
+[Thu Dec 08 23:36:22 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:36:22 2011] [notice] Child 7748: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:36:23 2011] [notice] Child 7748: Released the start mutex
+[Thu Dec 08 23:36:38 2011] [notice] Child 7748: All worker threads have exited.
+[Thu Dec 08 23:36:39 2011] [notice] Child 7748: Child process is exiting
+[Thu Dec 08 23:36:39 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:36:58 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:36:58 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:36:58 2011] [notice] Parent: Created child process 7564
+Apache server interrupted...
+otice] Child 7564: Child process is running
+[Thu Dec 08 23:36:58 2011] [notice] Child 7564: Acquired the start mutex.
+[Thu Dec 08 23:36:58 2011] [notice] Child 7564: Starting 250 worker threads.
+[Thu Dec 08 23:36:58 2011] [notice] Child 7564: Starting thread to listen on port 8080.
+[Thu Dec 08 23:44:26 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:44:26 2011] [notice] Child 7564: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:44:27 2011] [notice] Child 7564: Released the start mutex
+[Thu Dec 08 23:44:28 2011] [warn] mod_fcgid: cleanup zombie process 8800
+[Thu Dec 08 23:44:28 2011] [notice] Child 7564: All worker threads have exited.
+[Thu Dec 08 23:44:29 2011] [notice] Child 7564: Child process is exiting
+[Thu Dec 08 23:44:29 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:44:36 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:44:36 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:44:36 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:44:36 2011] [notice] Parent: Created child process 7304
+Apache server interrupted...
+otice] Child 7304: Child process is running
+[Thu Dec 08 23:44:37 2011] [notice] Child 7304: Acquired the start mutex.
+[Thu Dec 08 23:44:37 2011] [notice] Child 7304: Starting 250 worker threads.
+[Thu Dec 08 23:44:37 2011] [notice] Child 7304: Starting thread to listen on port 8080.
+[Thu Dec 08 23:55:37 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:55:37 2011] [notice] Child 7304: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:55:37 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:55:38 2011] [notice] Child 7304: Released the start mutex
+[Thu Dec 08 23:55:51 2011] [notice] Child 7304: All worker threads have exited.
+[Thu Dec 08 23:55:52 2011] [notice] Child 7304: Child process is exiting
+[Thu Dec 08 23:55:52 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:56:02 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:56:02 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:56:02 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:56:02 2011] [notice] Parent: Created child process 4732
+Apache server interrupted...
+otice] Child 4732: Child process is running
+[Thu Dec 08 23:56:02 2011] [notice] Child 4732: Acquired the start mutex.
+[Thu Dec 08 23:56:02 2011] [notice] Child 4732: Starting 250 worker threads.
+[Thu Dec 08 23:56:02 2011] [notice] Child 4732: Starting thread to listen on port 8080.
+[Thu Dec 08 23:58:25 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 08 23:58:25 2011] [notice] Child 4732: Exit event signaled. Child process is ending.
+[Thu Dec 08 23:58:25 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Thu Dec 08 23:58:26 2011] [notice] Child 4732: Released the start mutex
+[Thu Dec 08 23:58:27 2011] [notice] Child 4732: All worker threads have exited.
+[Thu Dec 08 23:58:28 2011] [notice] Child 4732: Child process is exiting
+[Thu Dec 08 23:58:28 2011] [notice] Parent: Child process exited successfully.
+[Thu Dec 08 23:59:53 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 23:59:53 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Thu Dec 08 23:59:53 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Thu Dec 08 23:59:53 2011] [notice] Parent: Created child process 6536
+Apache server interrupted...
+otice] Child 6536: Child process is running
+[Thu Dec 08 23:59:53 2011] [notice] Child 6536: Acquired the start mutex.
+[Thu Dec 08 23:59:53 2011] [notice] Child 6536: Starting 250 worker threads.
+[Thu Dec 08 23:59:53 2011] [notice] Child 6536: Starting thread to listen on port 8080.
+[Fri Dec 09 00:00:00 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:00:00 2011] [notice] Child 6536: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:00:01 2011] [notice] Child 6536: Released the start mutex
+[Fri Dec 09 00:00:02 2011] [notice] Child 6536: All worker threads have exited.
+[Fri Dec 09 00:00:03 2011] [notice] Child 6536: Child process is exiting
+[Fri Dec 09 00:00:03 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:00:21 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:00:21 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:00:21 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:00:21 2011] [notice] Parent: Created child process 9448
+Apache server interrupted...
+otice] Child 9448: Child process is running
+[Fri Dec 09 00:00:21 2011] [notice] Child 9448: Acquired the start mutex.
+[Fri Dec 09 00:00:21 2011] [notice] Child 9448: Starting 250 worker threads.
+[Fri Dec 09 00:00:21 2011] [notice] Child 9448: Starting thread to listen on port 8080.
+[Fri Dec 09 00:01:39 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:01:39 2011] [notice] Child 9448: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:01:39 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:01:40 2011] [notice] Child 9448: Released the start mutex
+[Fri Dec 09 00:01:41 2011] [notice] Child 9448: All worker threads have exited.
+[Fri Dec 09 00:01:42 2011] [notice] Child 9448: Child process is exiting
+[Fri Dec 09 00:01:42 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:01:52 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:01:52 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:01:52 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:01:52 2011] [notice] Parent: Created child process 8476
+Apache server interrupted...
+otice] Child 8476: Child process is running
+[Fri Dec 09 00:01:52 2011] [notice] Child 8476: Acquired the start mutex.
+[Fri Dec 09 00:01:52 2011] [notice] Child 8476: Starting 250 worker threads.
+[Fri Dec 09 00:01:52 2011] [notice] Child 8476: Starting thread to listen on port 8080.
+[Fri Dec 09 00:02:00 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:02:00 2011] [notice] Child 8476: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:02:01 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:02:01 2011] [notice] Child 8476: Released the start mutex
+[Fri Dec 09 00:02:02 2011] [notice] Child 8476: All worker threads have exited.
+[Fri Dec 09 00:02:03 2011] [notice] Child 8476: Child process is exiting
+[Fri Dec 09 00:02:03 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:02:12 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:02:12 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:02:12 2011] [notice] Parent: Created child process 7652
+Apache server interrupted...
+otice] Child 7652: Child process is running
+[Fri Dec 09 00:02:12 2011] [notice] Child 7652: Acquired the start mutex.
+[Fri Dec 09 00:02:12 2011] [notice] Child 7652: Starting 250 worker threads.
+[Fri Dec 09 00:02:12 2011] [notice] Child 7652: Starting thread to listen on port 8080.
+[Fri Dec 09 00:07:33 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:07:33 2011] [notice] Child 7652: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:07:34 2011] [notice] Child 7652: Released the start mutex
+[Fri Dec 09 00:07:42 2011] [warn] mod_fcgid: cleanup zombie process 9608
+[Fri Dec 09 00:07:45 2011] [notice] Child 7652: All worker threads have exited.
+[Fri Dec 09 00:07:46 2011] [notice] Child 7652: Child process is exiting
+[Fri Dec 09 00:07:46 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:08:02 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:08:02 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:08:02 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:08:02 2011] [notice] Parent: Created child process 3140
+Apache server interrupted...
+otice] Child 3140: Child process is running
+[Fri Dec 09 00:08:02 2011] [notice] Child 3140: Acquired the start mutex.
+[Fri Dec 09 00:08:02 2011] [notice] Child 3140: Starting 250 worker threads.
+[Fri Dec 09 00:08:02 2011] [notice] Child 3140: Starting thread to listen on port 8080.
+[Fri Dec 09 00:09:32 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:09:32 2011] [notice] Child 3140: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:09:33 2011] [notice] Child 3140: Released the start mutex
+[Fri Dec 09 00:09:34 2011] [notice] Child 3140: All worker threads have exited.
+[Fri Dec 09 00:09:35 2011] [notice] Child 3140: Child process is exiting
+[Fri Dec 09 00:09:35 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:09:45 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:09:45 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:09:45 2011] [notice] Parent: Created child process 4728
+Apache server interrupted...
+otice] Child 4728: Child process is running
+[Fri Dec 09 00:09:45 2011] [notice] Child 4728: Acquired the start mutex.
+[Fri Dec 09 00:09:45 2011] [notice] Child 4728: Starting 250 worker threads.
+[Fri Dec 09 00:09:45 2011] [notice] Child 4728: Starting thread to listen on port 8080.
+[Fri Dec 09 00:11:18 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:11:18 2011] [notice] Child 4728: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:11:18 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:11:19 2011] [notice] Child 4728: Released the start mutex
+[Fri Dec 09 00:11:20 2011] [notice] Child 4728: All worker threads have exited.
+[Fri Dec 09 00:11:21 2011] [notice] Child 4728: Child process is exiting
+[Fri Dec 09 00:11:21 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:28:26 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:28:26 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:28:26 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:28:26 2011] [notice] Parent: Created child process 1364
+Apache server interrupted...
+otice] Child 1364: Child process is running
+[Fri Dec 09 00:28:26 2011] [notice] Child 1364: Acquired the start mutex.
+[Fri Dec 09 00:28:26 2011] [notice] Child 1364: Starting 250 worker threads.
+[Fri Dec 09 00:28:27 2011] [notice] Child 1364: Starting thread to listen on port 8080.
+[Fri Dec 09 00:28:34 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:28:34 2011] [notice] Child 1364: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:28:35 2011] [notice] Child 1364: Released the start mutex
+[Fri Dec 09 00:28:36 2011] [notice] Child 1364: All worker threads have exited.
+[Fri Dec 09 00:28:37 2011] [notice] Child 1364: Child process is exiting
+[Fri Dec 09 00:28:37 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:28:54 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:28:54 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:28:54 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:28:54 2011] [notice] Parent: Created child process 8664
+Apache server interrupted...
+otice] Child 8664: Child process is running
+[Fri Dec 09 00:28:54 2011] [notice] Child 8664: Acquired the start mutex.
+[Fri Dec 09 00:28:54 2011] [notice] Child 8664: Starting 250 worker threads.
+[Fri Dec 09 00:28:54 2011] [notice] Child 8664: Starting thread to listen on port 8080.
+[Fri Dec 09 00:29:33 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:29:33 2011] [notice] Child 8664: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:29:33 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:29:34 2011] [notice] Child 8664: Released the start mutex
+[Fri Dec 09 00:29:35 2011] [notice] Child 8664: All worker threads have exited.
+[Fri Dec 09 00:29:36 2011] [notice] Child 8664: Child process is exiting
+[Fri Dec 09 00:29:36 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:29:43 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:29:43 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:29:43 2011] [notice] Parent: Created child process 4596
+Apache server interrupted...
+otice] Child 4596: Child process is running
+[Fri Dec 09 00:29:43 2011] [notice] Child 4596: Acquired the start mutex.
+[Fri Dec 09 00:29:43 2011] [notice] Child 4596: Starting 250 worker threads.
+[Fri Dec 09 00:29:43 2011] [notice] Child 4596: Starting thread to listen on port 8080.
+[Fri Dec 09 00:30:54 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:30:54 2011] [notice] Child 4596: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:30:55 2011] [notice] Child 4596: Released the start mutex
+[Fri Dec 09 00:30:56 2011] [notice] Child 4596: All worker threads have exited.
+[Fri Dec 09 00:30:57 2011] [notice] Child 4596: Child process is exiting
+[Fri Dec 09 00:30:57 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:31:20 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:31:20 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:31:20 2011] [notice] Parent: Created child process 9312
+Apache server interrupted...
+otice] Child 9312: Child process is running
+[Fri Dec 09 00:31:20 2011] [notice] Child 9312: Acquired the start mutex.
+[Fri Dec 09 00:31:20 2011] [notice] Child 9312: Starting 250 worker threads.
+[Fri Dec 09 00:31:20 2011] [notice] Child 9312: Starting thread to listen on port 8080.
+[Fri Dec 09 00:32:30 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:32:30 2011] [notice] Child 9312: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:32:31 2011] [notice] Child 9312: Released the start mutex
+[Fri Dec 09 00:32:32 2011] [notice] Child 9312: All worker threads have exited.
+[Fri Dec 09 00:32:33 2011] [notice] Child 9312: Child process is exiting
+[Fri Dec 09 00:32:33 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:33:27 2011] [warn] pid file D:/Sausalito Workspace/testGuestbook/test/log/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 09 00:33:27 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:33:27 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:33:27 2011] [notice] Parent: Created child process 7380
+Apache server interrupted...
+otice] Child 7380: Child process is running
+[Fri Dec 09 00:33:27 2011] [notice] Child 7380: Acquired the start mutex.
+[Fri Dec 09 00:33:27 2011] [notice] Child 7380: Starting 250 worker threads.
+[Fri Dec 09 00:33:27 2011] [notice] Child 7380: Starting thread to listen on port 8080.
+[Fri Dec 09 00:33:35 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:33:35 2011] [notice] Child 7380: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:33:36 2011] [notice] Child 7380: Released the start mutex
+[Fri Dec 09 00:33:37 2011] [notice] Child 7380: All worker threads have exited.
+[Fri Dec 09 00:33:38 2011] [notice] Child 7380: Child process is exiting
+[Fri Dec 09 00:33:38 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:34:00 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:34:00 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:34:00 2011] [notice] Parent: Created child process 3280
+Apache server interrupted...
+otice] Child 3280: Child process is running
+[Fri Dec 09 00:34:00 2011] [notice] Child 3280: Acquired the start mutex.
+[Fri Dec 09 00:34:00 2011] [notice] Child 3280: Starting 250 worker threads.
+[Fri Dec 09 00:34:00 2011] [notice] Child 3280: Starting thread to listen on port 8080.
+[Fri Dec 09 00:37:09 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:37:09 2011] [notice] Child 3280: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:37:09 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:37:10 2011] [notice] Child 3280: Released the start mutex
+[Fri Dec 09 00:37:22 2011] [notice] Child 3280: All worker threads have exited.
+[Fri Dec 09 00:37:23 2011] [notice] Child 3280: Child process is exiting
+[Fri Dec 09 00:37:23 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:37:31 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:37:31 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:37:31 2011] [notice] Parent: Created child process 8336
+Apache server interrupted...
+otice] Child 8336: Child process is running
+[Fri Dec 09 00:37:31 2011] [notice] Child 8336: Acquired the start mutex.
+[Fri Dec 09 00:37:31 2011] [notice] Child 8336: Starting 250 worker threads.
+[Fri Dec 09 00:37:31 2011] [notice] Child 8336: Starting thread to listen on port 8080.
+[Fri Dec 09 00:40:58 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 00:40:58 2011] [notice] Child 8336: Exit event signaled. Child process is ending.
+[Fri Dec 09 00:40:58 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 00:40:59 2011] [notice] Child 8336: Released the start mutex
+[Fri Dec 09 00:41:00 2011] [notice] Child 8336: All worker threads have exited.
+[Fri Dec 09 00:41:01 2011] [notice] Child 8336: Child process is exiting
+[Fri Dec 09 00:41:01 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 00:41:17 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 00:41:17 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 00:41:17 2011] [notice] Parent: Created child process 3408
+Apache server interrupted...
+otice] Child 3408: Child process is running
+[Fri Dec 09 00:41:18 2011] [notice] Child 3408: Acquired the start mutex.
+[Fri Dec 09 00:41:18 2011] [notice] Child 3408: Starting 250 worker threads.
+[Fri Dec 09 00:41:18 2011] [notice] Child 3408: Starting thread to listen on port 8080.
+[Fri Dec 09 01:21:22 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 09 01:21:22 2011] [notice] Child 3408: Exit event signaled. Child process is ending.
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: i = , referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: 30, referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  String , referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: http://www.28msec.com/templates/guestbook/, referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr:  is still in the pool, referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] mod_fcgid: stderr: , referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] [client 127.0.0.1] (OS 109)管道已结束。  : mod_fcgid: get overlap result error, referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [error] [client 127.0.0.1] Premature end of script headers: sausa_fcgi.exe, referer: http://127.0.0.1:8080/index.html
+[Fri Dec 09 01:21:22 2011] [warn] (OS 10038)在一个非套接字上尝试了一个操作。  : setsockopt(SO_UPDATE_ACCEPT_CONTEXT) failed.
+[Fri Dec 09 01:21:23 2011] [notice] Child 3408: Released the start mutex
+[Fri Dec 09 01:21:24 2011] [notice] Child 3408: All worker threads have exited.
+[Fri Dec 09 01:21:25 2011] [notice] Child 3408: Child process is exiting
+[Fri Dec 09 01:21:25 2011] [notice] Parent: Child process exited successfully.
+[Fri Dec 09 01:22:19 2011] [notice] Apache/2.2.16 (Win32) mod_fcgid/2.3.5 configured -- resuming normal operations
+[Fri Dec 09 01:22:19 2011] [notice] Server built: Jul 30 2010 16:15:37
+[Fri Dec 09 01:22:19 2011] [notice] Parent: Created child process 2472
+[Fri Dec 09 01:22:19 2011] [notice] Child 2472: Child process is running
+[Fri Dec 09 01:22:19 2011] [notice] Child 2472: Acquired the start mutex.
+[Fri Dec 09 01:22:19 2011] [notice] Child 2472: Starting 250 worker threads.
+[Fri Dec 09 01:22:19 2011] [notice] Child 2472: Starting thread to listen on port 8080.

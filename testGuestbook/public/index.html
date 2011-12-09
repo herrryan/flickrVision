@@ -1,92 +1,82 @@
+<!DOCTYPE html>
 <html>
-  <head>
-     <title>28msec, Inc - guestbook</title>
-     <link type="text/css" href="/css/main.css" rel="stylesheet" /> 
-     <link type="text/css" href="/css/28msec-theme/jquery-ui-1.8.2.custom.css" rel="stylesheet" />
-     <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
-     <script type="text/javascript">
-     //<![CDATA[
-        function replaceEntries(data){
-        	var entries=$("#entries");
-            entries.fadeOut("slow",function(){
-                $("#wait").remove();
-                entries.empty();
-                entries.append(data);
-	            $(".entry").addClass("ui-widget ui-widget-content ui-corner-all");
-                entries.slideDown("slow");
-            });
-        }
-		function timedRefresh(timeoutPeriod) {
-			setTimeout(reload, timeoutPeriod);
-			// reload();
-		}
-        // function to refresh entries
-        function reload(){
-            $.ajax({
-                type: "GET",
-                url: "guestbook/list",
-                timeout: 3600000,
-                success: function(data, textStatus) {
-                           replaceEntries(data);	
-                         },
-                error: function(data, textStatus, error) {
-                    	   $("#wait").fadeOut("slow", function() {
-	                       $("#entries").append('<div style="color:red;">Something bad just happened: ' + textStatus + '; status: ' + data.status + '</div>');
-                         });
-                       }
-            });
-        }
-        
-        $(document).ready(
-        	    function(){
-        	        //register submit wrapper for the add-form
-                    $("#add-form").submit(function(){
-                            var form=$("#add-form");
-                            var action=form.attr("action");
-                            var data=form.serialize();
-                            $("#entries").append('<div id="wait" class="entry"><img src="images/loader.gif" alt="loading..." /></div>');
-                            $.post(action,data,function(data, textStatus){
-                                                if(textStatus=="success"){
-                                                    replaceEntries(data);
-                                                }else{
-                                                    // refresh entries if an error occurred
-                                                    reload();
-                                                }
-                                            }
-                            );
-                            return false;
-	      			    }
-                    );
-                    // init: styling
-                    $("input[type='submit']").addClass("show-summary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only");
-                    $("hr").addClass("ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all");
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>Google Maps JavaScript API v3 Example: Info Window Simple</title>
+<link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript">
+  function initialize() {
+    var myLatlng = new google.maps.LatLng(-25.363882,131.044922);
+    var myOptions = {
+      zoom: 4,
+      center: myLatlng,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
 
-                    // init: show loading 
-                    $("#entries").append('<div id="wait" class="entry"><img src="images/loader.gif" alt="loading..." /></div>');
-	      					
-                    // init: load entries
-                    reload();
-	    });
-     //]]>
-     </script>
-  </head>
-  <body onload="JavaScript:timedRefresh(60000);">
-	  <a href="http://www.28msec.com" target="_blank"><img src="/images/28msecLogo.png" alt="28msec Logo" style="float:right;" /></a> 
-	  <br /> 
-	  <h1>XQuery Guestbook<span style="vertical-align:sub;font-size:50%;">Beta</span></h1> 
-	  <hr style="padding:5px;" /> 
-      <br />
-    <div>
-    	<h2>Entries (last 5 only):</h2>
-    	<div id="entries"></div>
-    </div>
-    <div>
-        <h2>Add a new entry:</h2>
-        <form id="add-form" action="guestbook/add" method="post">
-            <p>Name:<br/><input name="author" type="text" size="30" maxlength="30"/></p>
-            <p>Text:<br/><textarea name="text" cols="50" rows="3" onfocus="if(this.value=='Add your text here!'){this.value=''}">Add your text here!</textarea></p>
-            <input type="submit" value="Insert" />
-        </form>
-    </div>
-  </body>
+    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+    var contentString = '<img src="http://farm8.staticflickr.com/7016/6467269295_83516e6396_t.jpg" />';
+
+    var infowindow = new google.maps.InfoWindow({
+        content: contentString,
+        maxWidth: 10
+    });
+
+    var marker = new google.maps.Marker({
+        position: myLatlng,
+        map: map
+    });
+    infowindow.open(map, marker);
+    setTimeout(function () { infowindow.close(); }, 60000);
+    setTimeout(function() {reload(map)}, 200);
+  }
+
+  function reload(map){
+    // alert("come on");
+    $("#text").append("come on ");
+    $.ajax({
+        type: "GET",
+        url: "guestbook/listshs",
+        timeout: 3600000,
+        cache: false,
+        success: function(data, textStatus) {
+          // alert("success");
+          
+          if (data) {
+	          $(data).find("entry").each(function() {  
+	            var lngt = $(this).find("longtitude").text();
+	            var lati = $(this).find("latitude").text();
+	            var photo = "<img src=" + $(this).find("photo").text() + " />";
+	            var myLatlng = new google.maps.LatLng(lati, lngt);
+	
+		    	var marker = new google.maps.Marker({
+			        position: myLatlng,
+			        map: map
+			    });
+	
+			    var infowindow = new google.maps.InfoWindow({
+			        content: photo,
+			        maxWidth: 10
+		    	});
+			    infowindow.open(map,marker); 
+	          });
+          }
+          setTimeout(function() {reload(map)}, 500);
+	    },
+        error: function(data, textStatus, error) {
+		  $("#text").append("error ");
+		  setTimeout(function() {reload(map)}, 500);
+        }
+    });
+  }
+</script>
+
+</head>
+<body onload="initialize()">
+  <div id="map_canvas"></div>
+  <div id="text">Hello</div>
+</body>
 </html>

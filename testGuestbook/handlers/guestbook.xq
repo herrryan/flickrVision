@@ -25,17 +25,17 @@ declare sequential function guestbook:add()
       }
       </entry>
   );
-  exit returning guestbook:list();
+  exit returning guestbook:listshs();
 };
 
-declare sequential function guestbook:list() {
-  http:set-header("Cache-Control", "no-cache");
-  guestbook:insert();
+declare sequential function guestbook:listshs() {
+  
+  http:set-content-type("application/xml");
   let $entries := zorba-rest:get("http://www.flickr.com/services/rest/?method=flickr.photos.getRecent&amp;api_key=b9a678af037005a87cc46dbb9bed702b")//photo
   let $num_entries := fn:count($entries)
   return 
     if($num_entries = 0)
-    then    
+    then
       <div class="entry"><b>No entries, yet.</b></div>
     else
       for $entry in $entries
@@ -46,12 +46,12 @@ declare sequential function guestbook:list() {
       return
       if (fn:count($location) != 0)
       then
-             <div class="entry">
-                 <div class="header"><b>{string($entry/@id)}</b></div>
-                 <div class="header"><b>{string($location/@latitude)}</b></div>
-                 <div class="header"><b>{string($location/@longitude)}</b></div>
-                 <div class="header"><img src="" /></div>
-             </div>
+             <entry>
+                 <id>{string($entry/@id)}</id>
+                 <latitude>{string($location/@latitude)}</latitude>
+                 <longtitude>{string($location/@longitude)}</longtitude>
+                 <photo>{$photo_url}</photo>
+             </entry>
       else
       ();
 };
